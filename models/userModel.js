@@ -30,3 +30,4 @@ const createUserTable = async () => {
 createUserTable();
 
 module.exports = pool;
+
